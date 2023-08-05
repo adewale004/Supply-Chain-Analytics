@@ -25,4 +25,4 @@ Just In Time faces challenges in every aspect of their supply chain management t
 
 By implementing these data-driven recommendations, Just In Time can strengthen its supply chain processes, improve customer satisfaction, and achieve a competitive edge in the market.
 
-![just_in_time_page-0001](just_in_time_page-0001.jpg)
+![dashboard](dashboard.jpg)
