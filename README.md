@@ -1,12 +1,9 @@
-# Just In Time Supply Chain Analysis
-
-## Executive Summary
-
+# 🧾 EXECUTIVE SUMMARY
 Just In Time faces challenges in every aspect of their supply chain management that are resulting in unacceptable rates of delayed shipments, stockouts, and excess inventory. To address these pressing issues and make informed business decisions. I present a comprehensive dashboard highlighting critical findings and actionable insights that can significantly improve Just In Time supply chain efficiency.
 
-### Key Findings
+## Key Findings
 
-- Nearly 44% of orders are delayed, on average by half a day. First class shipments - making up 16% of orders - are 2.5 times more likely to be delayed, indicating a major process issue for the fastest shipping method. Orders to Central Africa are also 1.2 times more likely to be delayed, suggesting specific logistics problems fulfilling orders to this region.
+- Nearly 44% of orders are delayed, on average by half a day. First class shipments - making up 16% of orders - are 2.58 times more likely to be delayed, indicating a major process issue for the fastest shipping method. Orders to Central Africa and South of USA regions are also 1.14 times more likely to be delayed, suggesting specific logistics problems fulfilling orders to these regions.
 
 - The stock out rate, which refers to the percentage of times products are not available in inventory when needed, is alarmingly high at 44.27%. This implies missed sales opportunities and points towards a need for more efficient inventory management strategies.
 
@@ -16,14 +13,16 @@ Just In Time faces challenges in every aspect of their supply chain management t
 
 - Finally, certain products have not been ordered by any customer, yet they are stored in the inventory, incurring storage costs. These products are Bowflex SelectTech 1090 Dumbbells, Dell Laptop, Bushnell Pro X7 Jolt Slope Rangefinder, SOLE E25 Elliptical, and SOLE E35 Elliptical.
 
-### Actionable Recommendations
+## Actionable Recommendations
 
 - **Improve Shipment Mode:** I recommend assessing the effectiveness of "First Class" as a shipment mode and exploring ways to reduce delays for orders using this mode. Optimizing shipment schedules and diversifying carriers could lead to more reliable delivery timelines.
 
-- **Central Africa Customer Region:** Understanding the reasons behind delays in this specific region is crucial. Engaging with local partners, optimizing logistics, and exploring potentials.
+- **Central Africa and South of USA Customer Regions:** Understanding the reasons behind delays in these regions is crucial. Engaging with local partners, optimizing logistics, and exploring potentials.
 
 - **Enhance Inventory Management:** Address overstocking and understocking issues by adopting a data-driven approach. Utilize historical sales data to forecast demand accurately this will aid in maintaining optimal inventory levels and reducing stockouts.
 
 - **Product Rationalization:** Review the relevance and demand for products with zero orders. Consider market research or targeted marketing campaigns to increase awareness and sales for these products.
 
 By implementing these data-driven recommendations, Just In Time can strengthen its supply chain processes, improve customer satisfaction, and achieve a competitive edge in the market.
+
+![just_in_time_page-0001](just_in_time_page-0001.jpg)
